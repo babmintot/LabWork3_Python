@@ -24,3 +24,4 @@ def min_breaks(n, m, memo ={}):
 n = 3
 m = 5
 print(min_breaks(n, m))
+# должно получиться 14
