@@ -21,6 +21,6 @@ def min_breaks(n, m, memo ={}):
     return min_b
 
 
-n = 2
-m = 3
+n = 3
+m = 5
 print(min_breaks(n, m))
